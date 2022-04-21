@@ -1,1 +1,1 @@
-non empty file
+This directory is about pointers and arrays.
