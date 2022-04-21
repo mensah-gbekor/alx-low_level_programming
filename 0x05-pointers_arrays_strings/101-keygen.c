@@ -58,14 +58,14 @@
 
   <meta name="viewport" content="width=device-width">
   
-  <title>alx-low_level_programming/100-atoi.c at main · Trikcode/alx-low_level_programming</title>
+  <title>alx-low_level_programming/101-keygen.c at main · Trikcode/alx-low_level_programming</title>
     <meta name="description" content="Contribute to Trikcode/alx-low_level_programming development by creating an account on GitHub.">
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
   <meta property="fb:app_id" content="1401488693436528">
   <meta name="apple-itunes-app" content="app-id=1477376905" />
-    <meta name="twitter:image:src" content="https://opengraph.githubassets.com/4de5fed9756e48ce7f6f9d6ccb0111b5167bed82b4e3d12f756c94a1e8583fda/Trikcode/alx-low_level_programming" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="alx-low_level_programming/100-atoi.c at main · Trikcode/alx-low_level_programming" /><meta name="twitter:description" content="Contribute to Trikcode/alx-low_level_programming development by creating an account on GitHub." />
-    <meta property="og:image" content="https://opengraph.githubassets.com/4de5fed9756e48ce7f6f9d6ccb0111b5167bed82b4e3d12f756c94a1e8583fda/Trikcode/alx-low_level_programming" /><meta property="og:image:alt" content="Contribute to Trikcode/alx-low_level_programming development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="alx-low_level_programming/100-atoi.c at main · Trikcode/alx-low_level_programming" /><meta property="og:url" content="https://github.com/Trikcode/alx-low_level_programming" /><meta property="og:description" content="Contribute to Trikcode/alx-low_level_programming development by creating an account on GitHub." />
+    <meta name="twitter:image:src" content="https://opengraph.githubassets.com/4de5fed9756e48ce7f6f9d6ccb0111b5167bed82b4e3d12f756c94a1e8583fda/Trikcode/alx-low_level_programming" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="alx-low_level_programming/101-keygen.c at main · Trikcode/alx-low_level_programming" /><meta name="twitter:description" content="Contribute to Trikcode/alx-low_level_programming development by creating an account on GitHub." />
+    <meta property="og:image" content="https://opengraph.githubassets.com/4de5fed9756e48ce7f6f9d6ccb0111b5167bed82b4e3d12f756c94a1e8583fda/Trikcode/alx-low_level_programming" /><meta property="og:image:alt" content="Contribute to Trikcode/alx-low_level_programming development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="alx-low_level_programming/101-keygen.c at main · Trikcode/alx-low_level_programming" /><meta property="og:url" content="https://github.com/Trikcode/alx-low_level_programming" /><meta property="og:description" content="Contribute to Trikcode/alx-low_level_programming development by creating an account on GitHub." />
     
 
 
@@ -73,12 +73,12 @@
     
 
   <link rel="assets" href="https://github.githubassets.com/">
-    <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/69896463/ws?session=eyJ2IjoiVjMiLCJ1Ijo2OTg5NjQ2MywicyI6ODY0NTc4ODc4LCJjIjoxNzY0ODAyMzkxLCJ0IjoxNjUwNTQ3MTQyfQ==--b9f3e64a8d923d7cb3ba3fb05d98de03127d6327894fda18a6cc18b87c3ae2b1" data-refresh-url="/_alive" data-session-id="dd3d00e949df736e429dc902181ff15fce73864a176697f8939ea77807e8685c">
+    <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/69896463/ws?session=eyJ2IjoiVjMiLCJ1Ijo2OTg5NjQ2MywicyI6ODY0NTc4ODc4LCJjIjozNTI3MzYyLCJ0IjoxNjUwNTQ3MTUyfQ==--924486ec519b355f1e4757c08dcc9f38e0c68bebc9cfc424db0cce079773262d" data-refresh-url="/_alive" data-session-id="dd3d00e949df736e429dc902181ff15fce73864a176697f8939ea77807e8685c">
     <link rel="shared-web-socket-src" href="/assets-cdn/worker/socket-worker-b98ccfd9236e.js">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
 
 
-  <meta name="request-id" content="E19A:38CF:DD71F4:E8C61B:626159C5" data-pjax-transient="true" /><meta name="html-safe-nonce" content="501861149e154676583a246c827b55cf7f6e89b7558932e25d15db41361a78d6" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9UcmlrY29kZS9hbHgtbG93X2xldmVsX3Byb2dyYW1taW5nL3RyZWUvbWFpbi8weDA1LXBvaW50ZXJzX2FycmF5c19zdHJpbmdzIiwicmVxdWVzdF9pZCI6IkUxOUE6MzhDRjpERDcxRjQ6RThDNjFCOjYyNjE1OUM1IiwidmlzaXRvcl9pZCI6IjYwMjg3ODc0MTExMjMwMjIwNzYiLCJyZWdpb25fZWRnZSI6ImZyYSIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==" data-pjax-transient="true" /><meta name="visitor-hmac" content="eecc96744fe46beb4f402a74c33db6d7d9938dbe50e008771419053406284f0d" data-pjax-transient="true" />
+  <meta name="request-id" content="E19F:50A5:3A20CF:401969:626159CF" data-pjax-transient="true" /><meta name="html-safe-nonce" content="501861149e154676583a246c827b55cf7f6e89b7558932e25d15db41361a78d6" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9UcmlrY29kZS9hbHgtbG93X2xldmVsX3Byb2dyYW1taW5nL3RyZWUvbWFpbi8weDA1LXBvaW50ZXJzX2FycmF5c19zdHJpbmdzIiwicmVxdWVzdF9pZCI6IkUxOUY6NTBBNTozQTIwQ0Y6NDAxOTY5OjYyNjE1OUNGIiwidmlzaXRvcl9pZCI6IjYwMjg3ODc0MTExMjMwMjIwNzYiLCJyZWdpb25fZWRnZSI6ImZyYSIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==" data-pjax-transient="true" /><meta name="visitor-hmac" content="a5a87f8737e5ac5f600a17a91257db63ab98ae3d9e8c7830b25d7440223f99b2" data-pjax-transient="true" />
 
     <meta name="hovercard-subject-tag" content="repository:377772128" data-pjax-transient>
 
@@ -114,7 +114,7 @@
 
       <meta name="expected-hostname" content="github.com">
 
-      <meta name="js-proxy-site-detection-payload" content="YzIzNzQzMTgwMDExMTAxZGRmNjQyOTRkZDVjZTczOTM3ZWZjMDgyOTJjYTNjODNhOGU2YzNhMzI0YWI0ZDM4MXx7InJlbW90ZV9hZGRyZXNzIjoiMTk2LjYxLjQ0LjE2NCIsInJlcXVlc3RfaWQiOiJFMTlBOjM4Q0Y6REQ3MUY0OkU4QzYxQjo2MjYxNTlDNSIsInRpbWVzdGFtcCI6MTY1MDU0NzE0MiwiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
+      <meta name="js-proxy-site-detection-payload" content="M2MxNDQxZDU0NjY2MGMyOTcwYmRlNDEzYWU4Zjg0ZTAyMGQ5N2QyN2Q5NTYyOGYzMDViMTMxYWMyOTQ2MWQ5M3x7InJlbW90ZV9hZGRyZXNzIjoiMTk2LjYxLjQ0LjE2NCIsInJlcXVlc3RfaWQiOiJFMTlGOjUwQTU6M0EyMENGOjQwMTk2OTo2MjYxNTlDRiIsInRpbWVzdGFtcCI6MTY1MDU0NzE1MiwiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
 
     <meta name="enabled-features" content="ACTIONS_CALLABLE_WORKFLOWS,MARKETPLACE_PENDING_INSTALLATIONS,PRESENCE_IDLE">
 
@@ -133,7 +133,7 @@
 
 
 
-    <link rel="canonical" href="https://github.com/Trikcode/alx-low_level_programming/blob/main/0x05-pointers_arrays_strings/100-atoi.c" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/Trikcode/alx-low_level_programming/blob/main/0x05-pointers_arrays_strings/101-keygen.c" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -223,7 +223,7 @@
           spellcheck="false"
           autocomplete="off"
         >
-        <input type="hidden" value="4CqhFE9KfncrCp41udE-vlC6BlAS-PwK_RjKPgVzfMwbFJ4kwSf2YX6AukWIKvMlIHobi6GPcqIRn1xylPoO7Q" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+        <input type="hidden" value="bcyXHRR5zcaDIFSSacqFAyf00gnFtEHPQc_cJAu8FrSW8qgtmhRF0NaqcOJYMUiYVzTP0nbDz2etSEpomjVklQ" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
         <input type="hidden" class="js-site-search-type-field" name="type" >
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
@@ -422,7 +422,7 @@
 
     <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:workspaces context:user" data-turbo="false" data-selected-links="/codespaces /codespaces" href="/codespaces">Codespaces</a>
 
-      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;mensah-gbekor&quot;,&quot;originating_url&quot;:&quot;https://github.com/Trikcode/alx-low_level_programming/blob/main/0x05-pointers_arrays_strings/100-atoi.c&quot;,&quot;user_id&quot;:69896463}}" data-hydro-click-hmac="8bd91dd463374c374e6a7ec44feedac6751289f3fd982ab2b79ac50f9ff4806e" data-turbo="false" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
+      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;mensah-gbekor&quot;,&quot;originating_url&quot;:&quot;https://github.com/Trikcode/alx-low_level_programming/blob/main/0x05-pointers_arrays_strings/101-keygen.c&quot;,&quot;user_id&quot;:69896463}}" data-hydro-click-hmac="c2a8de707c59b578140373c8afecba242f71c52a9d2848826c6ee1df078efda0" data-turbo="false" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
 
     <a class="Header-link d-block d-md-none mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-turbo="false" href="/settings/profile">Settings</a>
 
@@ -430,7 +430,7 @@
       <img class="avatar avatar-user" loading="lazy" decoding="async" src="https://avatars.githubusercontent.com/u/69896463?s=40&amp;v=4" width="20" height="20" alt="@mensah-gbekor" />
       mensah-gbekor
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="GQWgaNCRUJ3AFji3BBeH1d54xW2QGbcNZQNjoLUQNnuzNP8FlUGfImQJgcqvxLIT_Ak7sWeeYdes8qr1sRRlnA" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="iq7000oXFS2m4zJzw6gvnToa50lJ4S9BqvgNgECEPRwgn6u-D8fakgL8iw5oexpbGGsZlb5m-ZtjCcTVRIBu-w" />
       <button
         type="submit"
         class="Header-link mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade d-md-none btn-link d-block width-full text-left"
@@ -469,7 +469,7 @@
       <notification-indicator
         class="js-socket-channel"
         data-test-selector="notifications-indicator"
-        data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6Njk4OTY0NjMiLCJ0IjoxNjUwNTQ3MTQyfQ==--f88dd1b320b5a1d76208f987b2778751a1cc279dd423d9a9d9ec6bdfb6ca0f68">
+        data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6Njk4OTY0NjMiLCJ0IjoxNjUwNTQ3MTUyfQ==--59a14289e2c2022966d01d15952d06b0ec3cde14c8aac9a5b5950a9dbe745032">
         <a href="/notifications"
           class="Header-link notification-indicator position-relative tooltipped tooltipped-sw"
           
@@ -605,7 +605,7 @@
   <details-dialog class="command-palette-details-dialog d-flex flex-column flex-justify-center height-fit" aria-label="command palette">
     <command-palette
       class="command-palette color-bg-default rounded-3 border color-shadow-small"
-      data-return-to=/Trikcode/alx-low_level_programming/blob/main/0x05-pointers_arrays_strings/100-atoi.c
+      data-return-to=/Trikcode/alx-low_level_programming/blob/main/0x05-pointers_arrays_strings/101-keygen.c
       data-user-id="69896463"
       data-activation-hotkey="Mod+k,Mod+Alt+k"
       data-command-mode-hotkey="Mod+Shift+k"
@@ -618,10 +618,10 @@
 
 
       <input type="hidden" name="color-mode-path" id="color-mode-path" value="/settings/appearance/color_mode" class="js-color-mode-path" autocomplete="off" />
-      <input type="hidden" value="wIShl7snyd2UCuzsI5NDWMJYaEEf1wr_0bWk0_QH-zVsMkcdFK0vGs17Gb30gmUJHhxE4V0nR5owXIXOjU0-7g" data-csrf="true" class="js-color-mode-csrf" />
+      <input type="hidden" value="5cHHWqSzlVegHNYREIQtYVW_ZnBxUwa_w6nPxNWPwjNJdyHQCzlzkPltI0DHlQswiftK0DOjS9oiQO7ZrMUH6A" data-csrf="true" class="js-color-mode-csrf" />
 
       <input type="hidden" name="tab-size-path" id="tab-size-path" value="/settings/appearance/tab_size" class="js-tab-size-path" autocomplete="off" />
-      <input type="hidden" value="Ex5CNOjGTO9l2XwS-QfQmcxUWZ630Ob4wAef8QG_q1QL-587bUMa1nA48XaSXChg9nE1ugzfjRrQG1uok5QT2w" data-csrf="true" class="js-tab-size-csrf" />
+      <input type="hidden" value="vTM0_v3VWXdQTYbkMkrAci-5-8cV1q7948rHJt67PZOl1unxeFAPTkWsC4BZETiLFZyX467ZxR_z1gN_TJCFHA" data-csrf="true" class="js-tab-size-csrf" />
 
         <command-palette-mode
           data-char="#"
@@ -1536,7 +1536,7 @@
         data-action="toggle:notifications-list-subscription-form#detailsToggled"
       >
 
-      <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:377772128,&quot;originating_url&quot;:&quot;https://github.com/Trikcode/alx-low_level_programming/blob/main/0x05-pointers_arrays_strings/100-atoi.c&quot;,&quot;user_id&quot;:69896463}}" data-hydro-click-hmac="7a2dc331165151de0957e9cefc6e14a15f6a377d398904448e90831b8fed57e9" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="btn-sm btn">  <span data-menu-button>
+      <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:377772128,&quot;originating_url&quot;:&quot;https://github.com/Trikcode/alx-low_level_programming/blob/main/0x05-pointers_arrays_strings/101-keygen.c&quot;,&quot;user_id&quot;:69896463}}" data-hydro-click-hmac="985fd69c21db02e9ef92d8257704cbca1ad7f8441234351c6b04478e74dfbddc" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="btn-sm btn">  <span data-menu-button>
             <span
               hidden
               
@@ -1589,7 +1589,7 @@
             </header>
 
             <div class="SelectMenu-list">
-              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="NHUwmU_F3y2y_VcdwLVPsjOcqTasRoBsffDaYsN3HKKR3Mqm5K6nvsN2OdFpqC3_B_ZNJiqMdYhpc5rP-yRQ3g" autocomplete="off" />
+              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="u_qSdt8CC47pymK69NXpUeCGpvi76bpc-1UKqSxec2EeU2hJdGlzHZhBDHZdyIsc1OxC6D0jT7jv1koEFA0_HQ" autocomplete="off" />
 
                 <input type="hidden" name="repository_id" value="377772128">
 
@@ -1717,7 +1717,7 @@
           hidden
         >
           <div class="SelectMenu-modal notifications-component-dialog-modal overflow-visible">
-            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="OtvZ60MknrurfojILxQ3GlXOWiCyHSwWJkhBFNdGDVOfciPU6E_mKNr15gSGCVVXYaS-MDTX2fIyywG57xVBLw" autocomplete="off" />
+            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="NI8eiLWsMMFpqM6WT4wnO7oUVJWBbMzWgovC1HB7dEqRJuS3HsdIUhgjoFrmkUV2jn6whQemOTKWCIJ5SCg4Ng" autocomplete="off" />
 
               <input type="hidden" name="repository_id" value="377772128">
 
@@ -1864,7 +1864,7 @@
   </li>
 
   <li>
-            <a href="/Trikcode/alx-low_level_programming/fork" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:377772128,&quot;originating_url&quot;:&quot;https://github.com/Trikcode/alx-low_level_programming/blob/main/0x05-pointers_arrays_strings/100-atoi.c&quot;,&quot;user_id&quot;:69896463}}" data-hydro-click-hmac="4c1c443febabd07f914e20c27a9251052b995d79f9b020a695e813be32c008ea" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" aria-label="Fork your own copy of Trikcode/alx-low_level_programming" data-view-component="true" class="btn-sm btn float-left">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
+            <a href="/Trikcode/alx-low_level_programming/fork" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:377772128,&quot;originating_url&quot;:&quot;https://github.com/Trikcode/alx-low_level_programming/blob/main/0x05-pointers_arrays_strings/101-keygen.c&quot;,&quot;user_id&quot;:69896463}}" data-hydro-click-hmac="314e5ae8e0a5aebf6379917483be5951bee77cbe017abe84abd74a3b450d7183" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" aria-label="Fork your own copy of Trikcode/alx-low_level_programming" data-view-component="true" class="btn-sm btn float-left">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
     <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"></path>
 </svg>Fork
           <span id="repo-network-counter" data-pjax-replace="true" title="8" data-view-component="true" class="Counter">8</span>
@@ -1893,19 +1893,19 @@
 </template>
 
   <div data-view-component="true" class="js-toggler-container js-social-container starring-container BtnGroup d-flex">
-    <form class="starred js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/Trikcode/alx-low_level_programming/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="GbWYx-_f9Yy8Ln_iAW_bSpRzrk1ao0VkFpRCyfy5COVRBXbdyKad973bRM4GAqRD_jqPOv8vQwySdj4wheE_Hg" autocomplete="off" />
-        <input type="hidden" value="C9bTv8TysCmOSCh9yhNTkrmcDTngQZP0-wvDQn9q7ZtDZj2l44vYUo-9E1HNfiyb09UsTkXNlZx_6b-7BjLaYA" data-csrf="true" class="js-confirm-csrf-token" />
+    <form class="starred js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/Trikcode/alx-low_level_programming/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="qlasT1IhspUKL3byeFoXOFJWoeESXtRvvlLoXQYYal7i5kJVdVja7gvaTd5_N2gxOB-AlrfS0gc6sJSkf0BdpQ" autocomplete="off" />
+        <input type="hidden" value="6TXi1n6wyoyf719-shYpHE0Ye46qPAY9D263AndCajmhhQzMWcmi954aZFK1e1YVJ1Fa-Q-wAFWLjMv7Dhpdwg" data-csrf="true" class="js-confirm-csrf-token" />
       <input type="hidden" name="context" value="repository">
-      <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:377772128,&quot;originating_url&quot;:&quot;https://github.com/Trikcode/alx-low_level_programming/blob/main/0x05-pointers_arrays_strings/100-atoi.c&quot;,&quot;user_id&quot;:69896463}}" data-hydro-click-hmac="fb59ed37474660fed140592d669a5ffc6c06a2ac3a28856270f50da732f0591f" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository" type="submit" data-view-component="true" class="rounded-left-2 border-right-0 btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
+      <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:377772128,&quot;originating_url&quot;:&quot;https://github.com/Trikcode/alx-low_level_programming/blob/main/0x05-pointers_arrays_strings/101-keygen.c&quot;,&quot;user_id&quot;:69896463}}" data-hydro-click-hmac="a58fc26b102e14827eca27107a0326486d8a603f5ac6c888dded6ad021432ff3" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository" type="submit" data-view-component="true" class="rounded-left-2 border-right-0 btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"></path>
 </svg><span data-view-component="true" class="d-inline">
           Starred
 </span>          <span id="repo-stars-counter-unstar" aria-label="7 users starred this repository" data-singular-suffix="user starred this repository" data-plural-suffix="users starred this repository" data-pjax-replace="true" title="7" data-view-component="true" class="Counter js-social-count">7</span>
   
 </button></form>
-    <form class="unstarred js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/Trikcode/alx-low_level_programming/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="kavAATQ1WXKmEJZzxe2k8nfZxZj3zl8NrUWGJQa5C7snHQkclzTwV8xBlJz-2FgipNcY9Yz6SLdPsXmndkPUoA" autocomplete="off" />
+    <form class="unstarred js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/Trikcode/alx-low_level_programming/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="TSN3mnQGZbWchQPyb0M5oS02MGMz_pg3NwdmHZb6zB77lb6H1wfMkPbUAR1UdsVx_jjtDkjKj43V85mf5gATBQ" autocomplete="off" />
       <input type="hidden" name="context" value="repository">
-      <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:377772128,&quot;originating_url&quot;:&quot;https://github.com/Trikcode/alx-low_level_programming/blob/main/0x05-pointers_arrays_strings/100-atoi.c&quot;,&quot;user_id&quot;:69896463}}" data-hydro-click-hmac="6847ed2179d1abbd306f41d97bd77e9299b1f36efde3941722b88657f697da68" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
+      <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:377772128,&quot;originating_url&quot;:&quot;https://github.com/Trikcode/alx-low_level_programming/blob/main/0x05-pointers_arrays_strings/101-keygen.c&quot;,&quot;user_id&quot;:69896463}}" data-hydro-click-hmac="ca7599af03329b007103214407c56387ec1f392beb6a11d0a71839a1710204e9" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path>
 </svg><span data-view-component="true" class="d-inline">
           Star
@@ -1926,13 +1926,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-e8e832">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-77b57d">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-e8e832"
+        id="filter-menu-77b57d"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -2135,7 +2135,7 @@
 
 
     
-<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/Trikcode/alx-low_level_programming/blob/5abb846b13b6e7b6619e90581c0e02f179997210/0x05-pointers_arrays_strings/100-atoi.c">Permalink</a>
+<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/Trikcode/alx-low_level_programming/blob/5abb846b13b6e7b6619e90581c0e02f179997210/0x05-pointers_arrays_strings/101-keygen.c">Permalink</a>
 
 <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
   
@@ -2219,7 +2219,7 @@
             </div>
 
               <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/Trikcode/alx-low_level_programming/blob/{{ urlEncodedRefName }}/0x05-pointers_arrays_strings/100-atoi.c" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
+  <a href="https://github.com/Trikcode/alx-low_level_programming/blob/{{ urlEncodedRefName }}/0x05-pointers_arrays_strings/101-keygen.c" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -2259,7 +2259,7 @@
             </template>
 
               <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/Trikcode/alx-low_level_programming/blob/{{ urlEncodedRefName }}/0x05-pointers_arrays_strings/100-atoi.c" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
+  <a href="https://github.com/Trikcode/alx-low_level_programming/blob/{{ urlEncodedRefName }}/0x05-pointers_arrays_strings/101-keygen.c" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -2290,7 +2290,7 @@
 </div>
 
   <h2 id="blob-path" class="breadcrumb flex-auto flex-self-center min-width-0 text-normal mx-2 width-full width-md-auto flex-order-1 flex-md-order-none mt-3 mt-md-0">
-    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/Trikcode/alx-low_level_programming"><span>alx-low_level_programming</span></a></span></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/Trikcode/alx-low_level_programming/tree/main/0x05-pointers_arrays_strings"><span>0x05-pointers_arrays_strings</span></a></span><span class="separator">/</span><strong class="final-path">100-atoi.c</strong>
+    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/Trikcode/alx-low_level_programming"><span>alx-low_level_programming</span></a></span></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/Trikcode/alx-low_level_programming/tree/main/0x05-pointers_arrays_strings"><span>0x05-pointers_arrays_strings</span></a></span><span class="separator">/</span><strong class="final-path">101-keygen.c</strong>
   </h2>
   <a href="/Trikcode/alx-low_level_programming/find/main" data-pjax="" data-hotkey="t" data-view-component="true" class="js-pjax-capture-input btn mr-2 d-none d-md-block">  Go to file
   
@@ -2303,7 +2303,7 @@
 </summary>
   <div data-view-component="true">      <ul class="dropdown-menu dropdown-menu-sw">
         <li class="d-block d-md-none">
-          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:377772128,&quot;originating_url&quot;:&quot;https://github.com/Trikcode/alx-low_level_programming/blob/main/0x05-pointers_arrays_strings/100-atoi.c&quot;,&quot;user_id&quot;:69896463}}" data-hydro-click-hmac="8377c87dfdf7a83119fdc11b5dfc2b05d8e562104b9f6acdb896e7bfd9d5ff32" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/Trikcode/alx-low_level_programming/find/main">
+          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:377772128,&quot;originating_url&quot;:&quot;https://github.com/Trikcode/alx-low_level_programming/blob/main/0x05-pointers_arrays_strings/101-keygen.c&quot;,&quot;user_id&quot;:69896463}}" data-hydro-click-hmac="f247e98e25a5859c8ce71ba4854e103690dcbc98ffaccdc63015bc6bb42d71c9" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/Trikcode/alx-low_level_programming/find/main">
             <span class="flex-auto">Go to file</span>
             <span class="text-small color-fg-muted" aria-hidden="true">T</span>
 </a>        </li>
@@ -2316,13 +2316,13 @@
 </button>        </li>
         <li class="dropdown-divider" role="none"></li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="0x05-pointers_arrays_strings/100-atoi.c" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="0x05-pointers_arrays_strings/101-keygen.c" data-view-component="true" class="dropdown-item cursor-pointer">
     
             Copy path
 
 </clipboard-copy>        </li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/Trikcode/alx-low_level_programming/blob/5abb846b13b6e7b6619e90581c0e02f179997210/0x05-pointers_arrays_strings/100-atoi.c" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/Trikcode/alx-low_level_programming/blob/5abb846b13b6e7b6619e90581c0e02f179997210/0x05-pointers_arrays_strings/101-keygen.c" data-view-component="true" class="dropdown-item cursor-pointer">
     
             <span class="d-flex flex-items-baseline">
               <span class="flex-auto">Copy permalink</span>
@@ -2354,7 +2354,7 @@
     <include-fragment src="/Trikcode/alx-low_level_programming/spoofed_commit_check/5abb846b13b6e7b6619e90581c0e02f179997210" data-test-selector="spoofed-commit-check"></include-fragment>
 
     <div class="Box d-flex flex-column flex-shrink-0 mb-3">
-  <include-fragment src="/Trikcode/alx-low_level_programming/contributors/main/0x05-pointers_arrays_strings/100-atoi.c" class="commit-loader">
+  <include-fragment src="/Trikcode/alx-low_level_programming/contributors/main/0x05-pointers_arrays_strings/101-keygen.c" class="commit-loader">
     <div class="Box-header d-flex flex-items-center">
       <div class="Skeleton avatar avatar-user flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1" style="width:24px;height:24px;"></div>
       <div class="Skeleton Skeleton--text col-5 ml-2">&nbsp;</div>
@@ -2389,18 +2389,18 @@
 
       <span class="file-mode" title="File mode">executable file</span>
       <span class="file-info-divider"></span>
-      30 lines (21 sloc)
+      23 lines (21 sloc)
       <span class="file-info-divider"></span>
-    411 Bytes
+    305 Bytes
   </div>
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between hide-sm hide-md">
       
 
     <div class="BtnGroup">
-      <a data-permalink-href="/Trikcode/alx-low_level_programming/raw/5abb846b13b6e7b6619e90581c0e02f179997210/0x05-pointers_arrays_strings/100-atoi.c" href="/Trikcode/alx-low_level_programming/raw/main/0x05-pointers_arrays_strings/100-atoi.c" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">  Raw
+      <a data-permalink-href="/Trikcode/alx-low_level_programming/raw/5abb846b13b6e7b6619e90581c0e02f179997210/0x05-pointers_arrays_strings/101-keygen.c" href="/Trikcode/alx-low_level_programming/raw/main/0x05-pointers_arrays_strings/101-keygen.c" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">  Raw
   
-</a>        <a data-permalink-href="/Trikcode/alx-low_level_programming/blame/5abb846b13b6e7b6619e90581c0e02f179997210/0x05-pointers_arrays_strings/100-atoi.c" href="/Trikcode/alx-low_level_programming/blame/main/0x05-pointers_arrays_strings/100-atoi.c" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">  Blame
+</a>        <a data-permalink-href="/Trikcode/alx-low_level_programming/blame/5abb846b13b6e7b6619e90581c0e02f179997210/0x05-pointers_arrays_strings/101-keygen.c" href="/Trikcode/alx-low_level_programming/blame/main/0x05-pointers_arrays_strings/101-keygen.c" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">  Blame
   
 </a>    </div>
 
@@ -2415,11 +2415,11 @@
 </svg>
           </a>
 
-        <remote-clipboard-copy class="d-inline-block btn-octicon" style="height: 26px" data-src="/Trikcode/alx-low_level_programming/raw/main/0x05-pointers_arrays_strings/100-atoi.c" data-action="click:remote-clipboard-copy#remoteCopy">
+        <remote-clipboard-copy class="d-inline-block btn-octicon" style="height: 26px" data-src="/Trikcode/alx-low_level_programming/raw/main/0x05-pointers_arrays_strings/101-keygen.c" data-action="click:remote-clipboard-copy#remoteCopy">
   
 
 
-  <span data-target="remote-clipboard-copy.idle">            <span class="tooltipped tooltipped-nw cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:377772128,&quot;originating_url&quot;:&quot;https://github.com/Trikcode/alx-low_level_programming/blob/main/0x05-pointers_arrays_strings/100-atoi.c&quot;,&quot;user_id&quot;:69896463}}" data-hydro-click-hmac="19cb3fc58c81c481bf482e08b47da8d57fd3ad96ba071fea06cd8a99138769fe" aria-label="Copy raw contents">
+  <span data-target="remote-clipboard-copy.idle">            <span class="tooltipped tooltipped-nw cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:377772128,&quot;originating_url&quot;:&quot;https://github.com/Trikcode/alx-low_level_programming/blob/main/0x05-pointers_arrays_strings/101-keygen.c&quot;,&quot;user_id&quot;:69896463}}" data-hydro-click-hmac="6cfe1efb9a06b84dfef91c6c8ea6caa720861412e11aa5821a9853a8d01b8579" aria-label="Copy raw contents">
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy">
     <path fill-rule="evenodd" d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 010 1.5h-1.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-1.5a.75.75 0 011.5 0v1.5A1.75 1.75 0 019.25 16h-7.5A1.75 1.75 0 010 14.25v-7.5z"></path><path fill-rule="evenodd" d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0114.25 11h-7.5A1.75 1.75 0 015 9.25v-7.5zm1.75-.25a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-7.5z"></path>
 </svg>
@@ -2442,7 +2442,7 @@
             </span>
 </span>
 </remote-clipboard-copy>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" data-turbo="false" action="/Trikcode/alx-low_level_programming/edit/main/0x05-pointers_arrays_strings/100-atoi.c" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="cpPHQGw6CmdEqVHsmK-fRae_oJnN4laJOMYz7_4VnNTlcmmI06X0ttjbqIFiOsWjUxskHE5aTrvbMeU8X_VK4A" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" data-turbo="false" action="/Trikcode/alx-low_level_programming/edit/main/0x05-pointers_arrays_strings/101-keygen.c" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="XKCVTM4A_zuzJIQ6qnOxguFEUG4mamkvvK2mIi1dv5Y54LzmpSUv3ZREeWRD0rD3bnnAEx4dPlG65oJDDWrNkQ" />
             <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
               aria-label="Fork this project and edit the file" data-hotkey="e" data-disable-with>
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pencil">
@@ -2450,7 +2450,7 @@
 </svg>
             </button>
 </form>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" data-turbo="false" action="/Trikcode/alx-low_level_programming/delete/main/0x05-pointers_arrays_strings/100-atoi.c" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="dvPo2M1seCE3dhAqyUdyMuDbUJf5SRccgnPBDnExEX23hKBqD0Li8Kzat28ISDLuppvJpPrTpPLqP5DQKS20UQ" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" data-turbo="false" action="/Trikcode/alx-low_level_programming/delete/main/0x05-pointers_arrays_strings/101-keygen.c" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="duzlUv-fz0n3lt2KOyZHJU4nLp_yxoZPHDpbw50KcENFiqXTrNrg395ja-jI59CHB5ONb5pbMqxOPHQgohnQhA" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="Fork this project and delete the file" data-disable-with>
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-trash">
@@ -2478,15 +2478,15 @@
                 </a>
             </li>
           <li>
-            <a class="dropdown-item" href="/Trikcode/alx-low_level_programming/raw/main/0x05-pointers_arrays_strings/100-atoi.c">
+            <a class="dropdown-item" href="/Trikcode/alx-low_level_programming/raw/main/0x05-pointers_arrays_strings/101-keygen.c">
               View raw
             </a>
           </li>
             <li>
-              <remote-clipboard-copy class="dropdown-item" data-src="/Trikcode/alx-low_level_programming/raw/main/0x05-pointers_arrays_strings/100-atoi.c" data-action="click:remote-clipboard-copy#remoteCopy">
+              <remote-clipboard-copy class="dropdown-item" data-src="/Trikcode/alx-low_level_programming/raw/main/0x05-pointers_arrays_strings/101-keygen.c" data-action="click:remote-clipboard-copy#remoteCopy">
   
 
-  <span data-target="remote-clipboard-copy.idle">                  <span class="cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:377772128,&quot;originating_url&quot;:&quot;https://github.com/Trikcode/alx-low_level_programming/blob/main/0x05-pointers_arrays_strings/100-atoi.c&quot;,&quot;user_id&quot;:69896463}}" data-hydro-click-hmac="19cb3fc58c81c481bf482e08b47da8d57fd3ad96ba071fea06cd8a99138769fe">
+  <span data-target="remote-clipboard-copy.idle">                  <span class="cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:377772128,&quot;originating_url&quot;:&quot;https://github.com/Trikcode/alx-low_level_programming/blob/main/0x05-pointers_arrays_strings/101-keygen.c&quot;,&quot;user_id&quot;:69896463}}" data-hydro-click-hmac="6cfe1efb9a06b84dfef91c6c8ea6caa720861412e11aa5821a9853a8d01b8579">
                     Copy raw contents
 </span></span>
   <span data-target="remote-clipboard-copy.fetching" hidden="hidden">                  Copy raw contents
@@ -2509,17 +2509,17 @@
 </span>
 </remote-clipboard-copy>            </li>
             <li>
-              <a class="dropdown-item" href="/Trikcode/alx-low_level_programming/blame/main/0x05-pointers_arrays_strings/100-atoi.c">
+              <a class="dropdown-item" href="/Trikcode/alx-low_level_programming/blame/main/0x05-pointers_arrays_strings/101-keygen.c">
                 View blame
               </a>
             </li>
 
               <li class="dropdown-divider" role="none"></li>
               <li>
-                <a class="dropdown-item" href="/Trikcode/alx-low_level_programming/edit/main/0x05-pointers_arrays_strings/100-atoi.c">Edit file</a>
+                <a class="dropdown-item" href="/Trikcode/alx-low_level_programming/edit/main/0x05-pointers_arrays_strings/101-keygen.c">Edit file</a>
               </li>
               <li>
-                <a class="dropdown-item menu-item-danger" href="/Trikcode/alx-low_level_programming/delete/main/0x05-pointers_arrays_strings/100-atoi.c">Delete file</a>
+                <a class="dropdown-item menu-item-danger" href="/Trikcode/alx-low_level_programming/delete/main/0x05-pointers_arrays_strings/101-keygen.c">Delete file</a>
               </li>
         </ul>
       </details>
@@ -2557,135 +2557,100 @@
 </svg>
 </span></template>
 
-  <table class="highlight tab-size js-file-line-container js-code-nav-container js-tagsearch-file" data-tab-size="8" data-paste-markdown-skip data-tagsearch-lang="C" data-tagsearch-path="0x05-pointers_arrays_strings/100-atoi.c">
+  <table class="highlight tab-size js-file-line-container js-code-nav-container js-tagsearch-file" data-tab-size="8" data-paste-markdown-skip data-tagsearch-lang="C" data-tagsearch-path="0x05-pointers_arrays_strings/101-keygen.c">
         <tr>
           <td id="L1" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="1"></td>
-          <td id="LC1" class="blob-code blob-code-inner js-file-line">#<span class="pl-k">include</span> <span class="pl-s"><span class="pl-pds">&quot;</span>holberton.h<span class="pl-pds">&quot;</span></span></td>
+          <td id="LC1" class="blob-code blob-code-inner js-file-line">#<span class="pl-k">include</span> <span class="pl-s"><span class="pl-pds">&lt;</span>stdio.h<span class="pl-pds">&gt;</span></span></td>
         </tr>
         <tr>
           <td id="L2" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="2"></td>
-          <td id="LC2" class="blob-code blob-code-inner js-file-line">
-</td>
+          <td id="LC2" class="blob-code blob-code-inner js-file-line">#<span class="pl-k">include</span> <span class="pl-s"><span class="pl-pds">&lt;</span>stdlib.h<span class="pl-pds">&gt;</span></span></td>
         </tr>
         <tr>
           <td id="L3" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="3"></td>
-          <td id="LC3" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">/*</span>*</span></td>
+          <td id="LC3" class="blob-code blob-code-inner js-file-line">#<span class="pl-k">include</span> <span class="pl-s"><span class="pl-pds">&lt;</span>time.h<span class="pl-pds">&gt;</span></span></td>
         </tr>
         <tr>
           <td id="L4" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="4"></td>
-          <td id="LC4" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> * _atoi - convert a string to an integer.</span></td>
+          <td id="LC4" class="blob-code blob-code-inner js-file-line">
+</td>
         </tr>
         <tr>
           <td id="L5" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="5"></td>
-          <td id="LC5" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> * @s: the string to be comverted.</span></td>
+          <td id="LC5" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">/*</span>*</span></td>
         </tr>
         <tr>
           <td id="L6" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="6"></td>
-          <td id="LC6" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> *</span></td>
+          <td id="LC6" class="blob-code blob-code-inner js-file-line"><span class="pl-c">  * main - generates random passwords for 101-crackme</span></td>
         </tr>
         <tr>
           <td id="L7" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="7"></td>
-          <td id="LC7" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> *Return: The integer value of the comverted string.</span></td>
+          <td id="LC7" class="blob-code blob-code-inner js-file-line"><span class="pl-c">  * Return: zero</span></td>
         </tr>
         <tr>
           <td id="L8" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="8"></td>
-          <td id="LC8" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> <span class="pl-c">*/</span></span></td>
+          <td id="LC8" class="blob-code blob-code-inner js-file-line"><span class="pl-c">  <span class="pl-c">*/</span></span></td>
         </tr>
         <tr>
           <td id="L9" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="9"></td>
-          <td id="LC9" class="blob-code blob-code-inner js-file-line">
-</td>
+          <td id="LC9" class="blob-code blob-code-inner js-file-line"><span class="pl-k">int</span> <span class="pl-en">main</span>(<span class="pl-k">void</span>)</td>
         </tr>
         <tr>
           <td id="L10" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="10"></td>
-          <td id="LC10" class="blob-code blob-code-inner js-file-line"><span class="pl-k">int</span> <span class="pl-en">_atoi</span>(<span class="pl-k">char</span> *s)</td>
+          <td id="LC10" class="blob-code blob-code-inner js-file-line">{</td>
         </tr>
         <tr>
           <td id="L11" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="11"></td>
-          <td id="LC11" class="blob-code blob-code-inner js-file-line">{</td>
+          <td id="LC11" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">int</span> sum;</td>
         </tr>
         <tr>
           <td id="L12" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="12"></td>
-          <td id="LC12" class="blob-code blob-code-inner js-file-line">
-</td>
+          <td id="LC12" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">char</span> c;</td>
         </tr>
         <tr>
           <td id="L13" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="13"></td>
-          <td id="LC13" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">int</span> sign = <span class="pl-c1">1</span>;</td>
+          <td id="LC13" class="blob-code blob-code-inner js-file-line">
+</td>
         </tr>
         <tr>
           <td id="L14" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="14"></td>
-          <td id="LC14" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">unsigned</span> <span class="pl-k">int</span> num = <span class="pl-c1">0</span>;</td>
+          <td id="LC14" class="blob-code blob-code-inner js-file-line">	<span class="pl-c1">srand</span>(<span class="pl-c1">time</span>(<span class="pl-c1">NULL</span>));</td>
         </tr>
         <tr>
           <td id="L15" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="15"></td>
-          <td id="LC15" class="blob-code blob-code-inner js-file-line">
-</td>
+          <td id="LC15" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">while</span> (sum &lt;= <span class="pl-c1">2645</span>)</td>
         </tr>
         <tr>
           <td id="L16" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="16"></td>
-          <td id="LC16" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">do</span> {</td>
+          <td id="LC16" class="blob-code blob-code-inner js-file-line">	{</td>
         </tr>
         <tr>
           <td id="L17" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="17"></td>
-          <td id="LC17" class="blob-code blob-code-inner js-file-line">
-</td>
+          <td id="LC17" class="blob-code blob-code-inner js-file-line">		c = <span class="pl-c1">rand</span>() % <span class="pl-c1">128</span>;</td>
         </tr>
         <tr>
           <td id="L18" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="18"></td>
-          <td id="LC18" class="blob-code blob-code-inner js-file-line">		<span class="pl-k">if</span> (*s == <span class="pl-s"><span class="pl-pds">&#39;</span>-<span class="pl-pds">&#39;</span></span>)</td>
+          <td id="LC18" class="blob-code blob-code-inner js-file-line">		sum += c;</td>
         </tr>
         <tr>
           <td id="L19" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="19"></td>
-          <td id="LC19" class="blob-code blob-code-inner js-file-line">			sign *= -<span class="pl-c1">1</span>;</td>
+          <td id="LC19" class="blob-code blob-code-inner js-file-line">		<span class="pl-c1">putchar</span>(c);</td>
         </tr>
         <tr>
           <td id="L20" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="20"></td>
-          <td id="LC20" class="blob-code blob-code-inner js-file-line">
-</td>
+          <td id="LC20" class="blob-code blob-code-inner js-file-line">	}</td>
         </tr>
         <tr>
           <td id="L21" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="21"></td>
-          <td id="LC21" class="blob-code blob-code-inner js-file-line">		<span class="pl-k">else</span> <span class="pl-k">if</span> (*s &gt;= <span class="pl-s"><span class="pl-pds">&#39;</span>0<span class="pl-pds">&#39;</span></span> &amp;&amp; *s &lt;= <span class="pl-s"><span class="pl-pds">&#39;</span>9<span class="pl-pds">&#39;</span></span>)</td>
+          <td id="LC21" class="blob-code blob-code-inner js-file-line">	<span class="pl-c1">putchar</span>(<span class="pl-c1">2772</span> - sum);</td>
         </tr>
         <tr>
           <td id="L22" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="22"></td>
-          <td id="LC22" class="blob-code blob-code-inner js-file-line">			num = (num * <span class="pl-c1">10</span>) + (*s - <span class="pl-s"><span class="pl-pds">&#39;</span>0<span class="pl-pds">&#39;</span></span>);</td>
+          <td id="LC22" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">return</span> (<span class="pl-c1">0</span>);</td>
         </tr>
         <tr>
           <td id="L23" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="23"></td>
-          <td id="LC23" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L24" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="24"></td>
-          <td id="LC24" class="blob-code blob-code-inner js-file-line">		<span class="pl-k">else</span> <span class="pl-k">if</span> (num &gt; <span class="pl-c1">0</span>)</td>
-        </tr>
-        <tr>
-          <td id="L25" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="25"></td>
-          <td id="LC25" class="blob-code blob-code-inner js-file-line">			<span class="pl-k">break</span>;</td>
-        </tr>
-        <tr>
-          <td id="L26" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="26"></td>
-          <td id="LC26" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L27" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="27"></td>
-          <td id="LC27" class="blob-code blob-code-inner js-file-line">	} <span class="pl-k">while</span> (*s++);</td>
-        </tr>
-        <tr>
-          <td id="L28" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="28"></td>
-          <td id="LC28" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L29" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="29"></td>
-          <td id="LC29" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">return</span> (num * sign);</td>
-        </tr>
-        <tr>
-          <td id="L30" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="30"></td>
-          <td id="LC30" class="blob-code blob-code-inner js-file-line">}</td>
+          <td id="LC23" class="blob-code blob-code-inner js-file-line">}</td>
         </tr>
   </table>
 </div>
@@ -2711,7 +2676,7 @@
             Copy permalink
           </clipboard-copy>
         </li>
-        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/Trikcode/alx-low_level_programming/blame/5abb846b13b6e7b6619e90581c0e02f179997210/0x05-pointers_arrays_strings/100-atoi.c">View git blame</a></li>
+        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/Trikcode/alx-low_level_programming/blame/5abb846b13b6e7b6619e90581c0e02f179997210/0x05-pointers_arrays_strings/101-keygen.c">View git blame</a></li>
           <li><a class="dropdown-item" id="js-new-issue" role="menuitem" href="/Trikcode/alx-low_level_programming/issues/new">Reference in new issue</a></li>
       </ul>
     </details-menu>
