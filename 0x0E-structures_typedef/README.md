@@ -1,1 +1,1 @@
-structures lectures
+**0x0E. C - Structures, typedef**
